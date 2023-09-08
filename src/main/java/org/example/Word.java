@@ -7,7 +7,6 @@ public class Word {
     private String meaning;
 
 
-
     Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
