@@ -8,6 +8,7 @@ public class Word {
 
 
 
+
     Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
