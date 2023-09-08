@@ -6,11 +6,6 @@ import java.util.Scanner;
 public class WordCRUD implements ICRUD {
     ArrayList<Word> list;
     Scanner s;
-    /*
-    => 난이도(1,2,3) & 새 단어 입력:
-    뜻 입력 :
-    새 단어가 단어장에 추가되었습니다.
-     */
 
     WordCRUD(Scanner s){
         list = new ArrayList<>();
