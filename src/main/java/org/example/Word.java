@@ -53,7 +53,6 @@ public class Word {
     2 *             pole   기둥, 장대
      */
 
-
     @Override
     public String toString() {
         String slevel = "";
