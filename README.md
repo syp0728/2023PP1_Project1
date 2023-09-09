@@ -1,7 +1,10 @@
 # 2023PP1_Project1
-<img width="1440" alt="image" src="https://github.com/syp0728/2023PP1_Project1/assets/143502059/3af12d62-477b-497f-b8ac-7d7ff0941f59">
+1. Create - 단어 추가 기능 실행화면
+![image](https://github.com/syp0728/2023PP1_Project1/assets/143502059/13efce69-d740-45ca-9f21-0d87dd40ff8a)
 
-<img width="1440" alt="image" src="https://github.com/syp0728/2023PP1_Project1/assets/143502059/0ec95274-c447-499a-946d-f6abe2864d8c">
+2. Read - 단어 목록 조회 실행화면
+![image](https://github.com/syp0728/2023PP1_Project1/assets/143502059/4f7c85ff-3e3a-42a2-b6ff-b30bb4707734)
 
-<img width="1440" alt="image" src="https://github.com/syp0728/2023PP1_Project1/assets/143502059/ac01ef81-b1a3-425f-a2de-a830ef796561">
+
+
 
