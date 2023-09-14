@@ -161,7 +161,7 @@ public class WordCRUD implements ICRUD {
                     pr.write(one.toFileString() + "\n");
                 }
                 pr.close();
-                System.out.println("==> 모든 파정 저장 완료 !!!");
+                System.out.println("==> 모든 파일 저장 완료 !!!");
 
             } catch (IOException e) {
                 e.printStackTrace();
