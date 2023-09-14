@@ -34,7 +34,7 @@
 
 7. 파일 저장 기능 실행화면
 
-<img width="190" alt="image" src="https://github.com/syp0728/2023PP1_Project1/assets/143502059/d2da6025-5b71-4274-b19b-df4ca2d155e1">
+<img width="190" alt="image" src="https://github.com/syp0728/2023PP1_Project1/assets/143502059/2b25162a-78d2-4ac9-a3c5-c54d78eca0ea">
 
 
 0. 나가기
